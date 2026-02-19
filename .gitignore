@@ -7,10 +7,16 @@ __pycache__/
 *.pyo
 *.pyd
 
-# Model Artifacts
-models/
+# Ignore ONLY root models folder
+/models/
 *.pkl
 *.joblib
+
+# Ignore raw data
+/data/
+
+# Ignore generated figures
+*.png
 
 # OS Files
 .DS_Store
@@ -19,7 +25,7 @@ Thumbs.db
 # Environment Files
 .env
 
-# VS Code (optional but recommended)
+# VS Code
 .vscode/
 
 # Logs
