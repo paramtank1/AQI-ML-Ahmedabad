@@ -15,8 +15,10 @@ __pycache__/
 # Ignore raw data
 /data/
 
-# Ignore generated figures
+# Ignore generated figures except those used in README
 *.png
+!reports/figures/*.png
+!assets/*.png
 
 # OS Files
 .DS_Store

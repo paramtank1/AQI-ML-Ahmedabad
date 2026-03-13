@@ -6,6 +6,12 @@ This project follows a structured **ML engineering workflow**, including data pr
 
 ---
 
+## Dashboard Preview
+
+![AQI Dashboard](assets/dashboard.png)
+
+---
+
 # 📌 Problem Statement
 
 Air pollution is a major environmental and public health concern. Accurate prediction of the **Air Quality Index (AQI)** can help individuals and policymakers make informed decisions.
@@ -55,15 +61,15 @@ Total Records: ~3200 daily observations
 
 The project follows a modular ML workflow:
 
-1️⃣ Data Loading
-2️⃣ Data Filtering (Ahmedabad)
-3️⃣ Time-Series Preparation
-4️⃣ Feature Engineering
-5️⃣ Model Training
-6️⃣ Model Comparison
-7️⃣ Cross-Validation
-8️⃣ Model Serialization
-9️⃣ Prediction Pipeline
+1️⃣ Data Loading -->
+2️⃣ Data Filtering (Ahmedabad)-->
+3️⃣ Time-Series Preparation-->
+4️⃣ Feature Engineering-->
+5️⃣ Model Training-->
+6️⃣ Model Comparison-->
+7️⃣ Cross-Validation-->
+8️⃣ Model Serialization-->
+9️⃣ Prediction Pipeline-->
 🔟 Streamlit Deployment
 
 ---
@@ -277,7 +283,4 @@ Potential enhancements for this project include:
 ---
 
 # 👨‍💻 Author
-
-**Param Tank**
-B.Tech Information Technology
-Machine Learning & Data Science Enthusiast
+Param Tank
