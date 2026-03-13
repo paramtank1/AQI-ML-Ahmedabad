@@ -1,9 +1,3 @@
-![Python](https://img.shields.io/badge/Python-3.13-blue)
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-brightgreen)
-![Random Forest](https://img.shields.io/badge/Model-RandomForest-orange)
-![Streamlit](https://img.shields.io/badge/UI-Streamlit-red)
-![Status](https://img.shields.io/badge/Project-Completed-success)
-
 # 🌍 Air Quality Index Prediction System (Machine Learning)
 
 A complete **Machine Learning system that predicts the next-day Air Quality Index (AQI)** for **Ahmedabad, India** using pollutant measurements and historical AQI trends.
